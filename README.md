@@ -37,7 +37,7 @@ A cozy, gamified habit tracker powered by $GLMW — focus and earn your way to a
 
 - 🌟 Telegram Mini App: [t.me/gleamorrow_bot](https://t.me/gleamorrow_bot)
 - 💸 Token on Pump.fun: [pump.fun/coin/A4THR4bKPaPio2C9LnPrGCLxpQbG7h5mC6d2wnLBpump](https://pump.fun/coin/A4THR4bKPaPio2C9LnPrGCLxpQbG7h5mC6d2wnLBpump)
-- 🚀 Join X: [gleamorrow.fun](https://gleamorrow.fun/)
+- 🚀 Join X: [x.com/gleamorrow](https://x.com/gleamorrow)
 - 🗨️ Join Telegram Community: [t.me/gleamorrow](https://t.me/gleamorrow)
 - 🌐 Website: [gleamorrow.fun](https://gleamorrow.fun/)
 
