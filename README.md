@@ -8,7 +8,7 @@ A cozy, gamified habit tracker powered by $GLMW — focus and earn your way to a
 
 ## ✨ Features
 
-- 🧠 Task Tracker — Create, complete, and manage tasks with star-based difficulty to earn coins
+- 📋 Task Tracker — Create, complete, and manage tasks with star-based difficulty to earn coins
 - ⏳ Focus Timer — Complete focus sessions to unlock collectibles
 - 💰 $GLMW Coin — Earn rewards and complete milestones
 - 🌻 Progress Garden — Unlock custom flowers based on your focus minutes
