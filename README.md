@@ -49,6 +49,8 @@ A cozy, gamified habit tracker powered by $GLMW — focus and earn your way to a
 - Backend: Python Flask 
 - APIs: Telegram WebApp API + custom endpoints
 
+Find code previews with comments in *snippets/*
+
 ---
 
 ## ⚠️ License
